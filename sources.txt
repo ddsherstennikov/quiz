@@ -1,0 +1,8 @@
+Sources:
+
+* C++ FAQs (1998, 2nd ed., Marshall P. Cline, Greg Lomow, Mike Girou)
+* C++ FAQ LITE (Marshall Cline, cline@parashift.com) -> http://www.dietmar-kuehl.de/mirror/c++-faq/
+* C++ Gotchas: avoiding common problems in coding
+* Google C++ Quiz -> https://developers.google.com/edu/c++/quiz
+* upWork tests -> upwork.com
+* Saylor C++ Quiz -> https://cas.saylor.org/login?service=https%3A%2F%2Fschool.saylor.org%2Flogin%2Findex.php#_=_
